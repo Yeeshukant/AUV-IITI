@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="Mini-360_850109602f1429a6e614bc76b93b083e_1" modelIndex="85420030" path="/home/yeeshu/Documents/Fritzing/parts/user/Mini-360_850109602f1429a6e614bc76b93b083e_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_f11befd235766bb4e0dcee612dc4341f_50" modelIndex="85420217" path="/home/yeeshu/Documents/Fritzing/parts/user/prefix0000_f11befd235766bb4e0dcee612dc4341f_50.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
